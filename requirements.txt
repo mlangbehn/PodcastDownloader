@@ -9,3 +9,4 @@ Flask>=0.12
 pecan>=1.2.1
 mysql-connector-python>=2.0.4
 pycurl>=7.43.0
+oslo.utils>=4.8.1 # not directly required, pinned by Snyk to avoid a vulnerability
