@@ -1,5 +1,5 @@
 python-swiftclient==2.6.0
-requests>=2.13.0
+requests>=2.32.0
 python-keystoneclient==1.7.1
 APScheduler>=3.3.1
 pyPodcastParser>=2.0.0
